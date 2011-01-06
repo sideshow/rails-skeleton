@@ -1,0 +1,38 @@
+body{
+	padding:0;
+	margin:0;
+	background-color:#EEEEEE;
+	font-family:Arial, Helvetica;
+	
+}
+
+a{
+	text-decoration:none;
+}
+
+/* usernav */
+
+#usernav{
+	padding:8px;
+	background-color:#222;
+	color:#666;
+	font-size:13px;
+	border-bottom:1px solid #666;
+	text-align:right;
+	
+}
+
+	#usernav a{
+		color: #FFF;
+		text-decoration:none;
+	}
+	
+	#usernav b{
+		color:#FFF;
+		font-weight:normal;
+	}
+
+
+
+/* end usernav */
+
